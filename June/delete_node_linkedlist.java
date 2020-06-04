@@ -13,3 +13,8 @@ var deleteNode = function(node) {
     node.val = node.next.val;
     node.next = node.next.next;
 };
+
+/*
+Runtime: 0 ms
+Memory Usage: 39 MB
+*/
