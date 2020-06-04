@@ -32,3 +32,8 @@ class Solution {
         return root;
     }
 }
+
+/*
+Runtime: 0 ms
+Memory Usage: 36.5 MB
+*/
