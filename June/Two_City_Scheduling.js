@@ -39,3 +39,8 @@ var twoCitySchedCost = function(costs) {
     }
     return sum;
 };
+
+/*
+Runtime: 68 ms
+Memory Usage: 35.8 MB
+*/
